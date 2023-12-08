@@ -1,0 +1,6 @@
+@namudarbas_HostAddress = http://localhost:5094
+
+GET {{namudarbas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
